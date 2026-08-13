@@ -103,4 +103,4 @@ Each attendance record contains:
 
 ## Author
 
-**Karthik V**
+**TRIVEDII BH**
