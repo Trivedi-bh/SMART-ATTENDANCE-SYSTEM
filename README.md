@@ -103,4 +103,4 @@ Each attendance record contains:
 
 ## Author
 
-**TRIVEDII BH**
+**TRIVEDI BH**
